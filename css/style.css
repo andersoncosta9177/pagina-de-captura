@@ -1,0 +1,73 @@
+body{
+
+
+  padding: 0;
+  box-sizing: border-box;
+  background:  url('../images/background.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.container{
+  margin-top: 80px;
+  height: auto;
+  width: 800px;
+  text-align: center;
+
+
+}
+
+.fundo{
+  flex-direction: row;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+
+}
+
+.fundo img{
+  width: 130px;
+
+}
+
+h1{
+  color: white;
+  margin-top: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 38px;
+  font-weight: 500;
+}
+h2{
+  color: beige;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h3{
+  color: white;
+  margin-top: 40px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.form-control{
+ max-width: 780px;
+  margin: 14px;
+  margin-left: auto;
+  height: 50px;
+  
+}
+
+.form{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+  .label-checkbox{
+    color: white;
+  }
+
+  button{
+    margin-top: 20px;
+    height: 45px;
+  }
